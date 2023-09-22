@@ -9,12 +9,12 @@ How to Use:
 2. Install PyQT@5 by opening terminal and typing brew install pyqt@5
 3. To run the script, open terminal and type python3 xml-file-splitter.py 
 
-
-
-CREDITS:
-Created on May 8, 2010 by @anasimtiaz
-Updated on May 28, 2016 by @danielwrobert
-This is a "fork" of original script.
-Original script URL: http://anasimtiaz.com/?p=51
-Link to the 2016 script: https://gist.github.com/danielwrobert/6c9ca8de8199d5430621f481673d4baa
-Updated on September 22, 2023 by @bfunk54
+</br>
+<h3>CREDITS:</h3>
+<ul>
+<li>Created on May 8, 2010 by @anasimtiaz</li>
+<li>Updated on May 28, 2016 by @danielwrobert</li>
+<li>Original script URL: http://anasimtiaz.com/?p=51</li>
+<li>Link to the 2016 script: https://gist.github.com/danielwrobert/6c9ca8de8199d5430621f481673d4baa</li>
+<li>Updated on September 22, 2023 by @bfunk54</li>
+</ul>
