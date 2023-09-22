@@ -1,4 +1,4 @@
-# Simple-XML-File-Splitter
+# Simple XML File Splitter
 Split XML Files with minimum effort or input.
 
 Tested on: MacOS Monterey Version 12.6, Python 3.11, and PyQt5 5.15.9
